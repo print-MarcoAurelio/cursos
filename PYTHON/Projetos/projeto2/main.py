@@ -7,9 +7,10 @@ lista_arquivos = os.listdir(caminho)
 
 locais = {
     "imagens": [".png", ".jpg"],
-    "planilhas": [".xlsx"],
-    "pdfs": [".pdf"],
-    "csv": [".csv"],
+    "planilhas": [".xlsx", ".xlsm"],
+    "pdfs": ["pdf", ".exe", ".doc"],
+    "csv": [".csv", ".xls", ".xlsx",],
+
 }
 
 for arquivo in lista_arquivos:
