@@ -1,4 +1,4 @@
-# Exercício 8 Faça um programa que solicite dois valores do tipo float e calcule a média, exiba o resultado na tela.
+# Exercício 7 Faça um programa que solicite dois valores do tipo float e calcule a média, exiba o resultado na tela.
 
 valor1 = float(input("Digite o primeiro número: "))
 valor2 = float(input("Digite o sugundo número: "))
