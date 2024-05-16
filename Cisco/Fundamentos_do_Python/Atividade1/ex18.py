@@ -1,4 +1,4 @@
-# Exercício 19 Desenvolva um software que calcule o volume de uma lata de refrigerante imprimir o resultado.
+# Exercício 18 Desenvolva um software que calcule o volume de uma lata de refrigerante imprimir o resultado.
 
 import math
 raio = float(input("Digite o raio da lata de refrigerente (em centínetros): "))
