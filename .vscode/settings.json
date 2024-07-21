@@ -1,0 +1,14 @@
+{
+    "Lua.diagnostics.disable": [
+        "deprecated",
+        "discard-returns"
+    ],
+    "Lua.diagnostics.globals": [
+        "PATH",
+        "c",
+        "stattr",
+        "r",
+        "wxstc",
+        "wx"
+    ]
+}
