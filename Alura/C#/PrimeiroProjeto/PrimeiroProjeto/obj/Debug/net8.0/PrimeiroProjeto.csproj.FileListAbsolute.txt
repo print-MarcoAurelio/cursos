@@ -1,0 +1,14 @@
+D:\Curso Alura\C# criando sua primeira aplicação\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.exe
+D:\Curso Alura\C# criando sua primeira aplicação\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.deps.json
+D:\Curso Alura\C# criando sua primeira aplicação\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.runtimeconfig.json
+D:\Curso Alura\C# criando sua primeira aplicação\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.dll
+D:\Curso Alura\C# criando sua primeira aplicação\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.pdb
+D:\Curso Alura\C# criando sua primeira aplicação\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso Alura\C# criando sua primeira aplicação\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.AssemblyInfoInputs.cache
+D:\Curso Alura\C# criando sua primeira aplicação\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.AssemblyInfo.cs
+D:\Curso Alura\C# criando sua primeira aplicação\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+D:\Curso Alura\C# criando sua primeira aplicação\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.dll
+D:\Curso Alura\C# criando sua primeira aplicação\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\refint\PrimeiroProjeto.dll
+D:\Curso Alura\C# criando sua primeira aplicação\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.pdb
+D:\Curso Alura\C# criando sua primeira aplicação\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.genruntimeconfig.cache
+D:\Curso Alura\C# criando sua primeira aplicação\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\ref\PrimeiroProjeto.dll
