@@ -1,0 +1,15 @@
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\2-CriandoVariaves\bin\Debug\net8.0\2-CriandoVariaves.exe
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\2-CriandoVariaves\bin\Debug\net8.0\2-CriandoVariaves.deps.json
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\2-CriandoVariaves\bin\Debug\net8.0\2-CriandoVariaves.runtimeconfig.json
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\2-CriandoVariaves\bin\Debug\net8.0\2-CriandoVariaves.dll
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\2-CriandoVariaves\bin\Debug\net8.0\2-CriandoVariaves.pdb
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\2-CriandoVariaves\obj\Debug\net8.0\2-CriandoVariaves.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\2-CriandoVariaves\obj\Debug\net8.0\2-CriandoVariaves.AssemblyInfoInputs.cache
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\2-CriandoVariaves\obj\Debug\net8.0\2-CriandoVariaves.AssemblyInfo.cs
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\2-CriandoVariaves\obj\Debug\net8.0\2-CriandoVariaves.csproj.CoreCompileInputs.cache
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\2-CriandoVariaves\obj\Debug\net8.0\2-CriandoVariaves.sourcelink.json
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\2-CriandoVariaves\obj\Debug\net8.0\2-CriandoVariaves.dll
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\2-CriandoVariaves\obj\Debug\net8.0\refint\2-CriandoVariaves.dll
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\2-CriandoVariaves\obj\Debug\net8.0\2-CriandoVariaves.pdb
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\2-CriandoVariaves\obj\Debug\net8.0\2-CriandoVariaves.genruntimeconfig.cache
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\2-CriandoVariaves\obj\Debug\net8.0\ref\2-CriandoVariaves.dll

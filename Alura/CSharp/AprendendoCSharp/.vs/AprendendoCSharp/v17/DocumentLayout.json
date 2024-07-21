@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\agnal\\OneDrive\\Documentos\\GitHub\\cursos\\Alura\\CSharp\\AprendendoCSharp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F30FFE4A-FE95-47E3-9B01-A265B1465EDD}|2-CriandoVariaves\\2-CriandoVariaves.csproj|c:\\users\\agnal\\onedrive\\documentos\\github\\cursos\\alura\\csharp\\aprendendocsharp\\2-criandovariaves\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F30FFE4A-FE95-47E3-9B01-A265B1465EDD}|2-CriandoVariaves\\2-CriandoVariaves.csproj|solutionrelative:2-criandovariaves\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{01A0450E-464C-429B-B912-933EC5F761BD}|1-OlaMundo\\1-OlaMundo.csproj|c:\\users\\agnal\\onedrive\\documentos\\github\\cursos\\alura\\csharp\\aprendendocsharp\\1-olamundo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01A0450E-464C-429B-B912-933EC5F761BD}|1-OlaMundo\\1-OlaMundo.csproj|solutionrelative:1-olamundo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -20,11 +24,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\agnal\\OneDrive\\Documentos\\GitHub\\cursos\\Alura\\CSharp\\AprendendoCSharp\\2-CriandoVariaves\\Program.cs",
+              "RelativeDocumentMoniker": "2-CriandoVariaves\\Program.cs",
+              "ToolTip": "C:\\Users\\agnal\\OneDrive\\Documentos\\GitHub\\cursos\\Alura\\CSharp\\AprendendoCSharp\\2-CriandoVariaves\\Program.cs",
+              "RelativeToolTip": "2-CriandoVariaves\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T02:33:35.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\agnal\\OneDrive\\Documentos\\GitHub\\cursos\\Alura\\CSharp\\AprendendoCSharp\\1-OlaMundo\\Program.cs",
               "RelativeDocumentMoniker": "1-OlaMundo\\Program.cs",
               "ToolTip": "C:\\Users\\agnal\\OneDrive\\Documentos\\GitHub\\cursos\\Alura\\CSharp\\AprendendoCSharp\\1-OlaMundo\\Program.cs",
               "RelativeToolTip": "1-OlaMundo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-21T02:03:11.351Z",
               "EditorCaption": ""
