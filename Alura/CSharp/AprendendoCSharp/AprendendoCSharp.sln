@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35111.106
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-OlaMundo", "1-OlaMundo\1-OlaMundo.csproj", "{01A0450E-464C-429B-B912-933EC5F761BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-OlaMundo", "1-OlaMundo\1-OlaMundo.csproj", "{01A0450E-464C-429B-B912-933EC5F761BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-CriandoVariaves", "2-CriandoVariaves\2-CriandoVariaves.csproj", "{F30FFE4A-FE95-47E3-9B01-A265B1465EDD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-CriandoVariaves", "2-CriandoVariaves\2-CriandoVariaves.csproj", "{F30FFE4A-FE95-47E3-9B01-A265B1465EDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-CriandoVariaveisPontoFlutuante", "3-CriandoVariaveisPontoFlutuante\3-CriandoVariaveisPontoFlutuante.csproj", "{361C4123-2E34-495C-96A8-F74D89F955F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{F30FFE4A-FE95-47E3-9B01-A265B1465EDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F30FFE4A-FE95-47E3-9B01-A265B1465EDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F30FFE4A-FE95-47E3-9B01-A265B1465EDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{361C4123-2E34-495C-96A8-F74D89F955F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{361C4123-2E34-495C-96A8-F74D89F955F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{361C4123-2E34-495C-96A8-F74D89F955F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{361C4123-2E34-495C-96A8-F74D89F955F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
