@@ -21,6 +21,15 @@ class Programa
         string vazia = "";
         Console.WriteLine(vazia);
 
+        letra = ' ';
+
+        string cursos = @"Curso disponíveis: 
+- Go 
+- C# 
+- Python 
+- Java";
+        Console.WriteLine(cursos);
+
         Console.WriteLine("Tecle enter para fechar ...");
         Console.ReadLine();
     }

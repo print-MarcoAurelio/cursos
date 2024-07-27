@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("5-CaracteresETextos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c09edf1051ee2e67469e9a934fc6a4f4a4bcd61c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1686aa4f01098e3a7ad2eb998c7faef5c6bc3c6")]
 [assembly: System.Reflection.AssemblyProductAttribute("5-CaracteresETextos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("5-CaracteresETextos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
