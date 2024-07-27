@@ -15,6 +15,12 @@ class Programa
         letra = (char)(65 + 1);
         Console.WriteLine(letra);
 
+        string primeiraFrase = "Alura - Cursos de tecnologia ";
+        Console.WriteLine(primeiraFrase + 2024);
+
+        string vazia = "";
+        Console.WriteLine(vazia);
+
         Console.WriteLine("Tecle enter para fechar ...");
         Console.ReadLine();
     }
