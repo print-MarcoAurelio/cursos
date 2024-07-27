@@ -1,0 +1,15 @@
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\4-TestaPontoFlutuante\bin\Debug\net8.0\4-TestaPontoFlutuante.exe
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\4-TestaPontoFlutuante\bin\Debug\net8.0\4-TestaPontoFlutuante.deps.json
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\4-TestaPontoFlutuante\bin\Debug\net8.0\4-TestaPontoFlutuante.runtimeconfig.json
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\4-TestaPontoFlutuante\bin\Debug\net8.0\4-TestaPontoFlutuante.dll
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\4-TestaPontoFlutuante\bin\Debug\net8.0\4-TestaPontoFlutuante.pdb
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\4-TestaPontoFlutuante\obj\Debug\net8.0\4-TestaPontoFlutuante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\4-TestaPontoFlutuante\obj\Debug\net8.0\4-TestaPontoFlutuante.AssemblyInfoInputs.cache
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\4-TestaPontoFlutuante\obj\Debug\net8.0\4-TestaPontoFlutuante.AssemblyInfo.cs
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\4-TestaPontoFlutuante\obj\Debug\net8.0\4-TestaPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\4-TestaPontoFlutuante\obj\Debug\net8.0\4-TestaPontoFlutuante.sourcelink.json
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\4-TestaPontoFlutuante\obj\Debug\net8.0\4-TestaPontoFlutuante.dll
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\4-TestaPontoFlutuante\obj\Debug\net8.0\refint\4-TestaPontoFlutuante.dll
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\4-TestaPontoFlutuante\obj\Debug\net8.0\4-TestaPontoFlutuante.pdb
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\4-TestaPontoFlutuante\obj\Debug\net8.0\4-TestaPontoFlutuante.genruntimeconfig.cache
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\4-TestaPontoFlutuante\obj\Debug\net8.0\ref\4-TestaPontoFlutuante.dll
