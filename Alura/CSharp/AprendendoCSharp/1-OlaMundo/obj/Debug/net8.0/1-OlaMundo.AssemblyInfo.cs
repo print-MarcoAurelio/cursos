@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("1-OlaMundo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fbda557430fe0da52139386715621af204b05dd5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+770383df7ea952cb6edf37522418e54c23527243")]
 [assembly: System.Reflection.AssemblyProductAttribute("1-OlaMundo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("1-OlaMundo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
