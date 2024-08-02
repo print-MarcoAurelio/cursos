@@ -22,8 +22,11 @@ class Programa
         while (mes <= 12)
         {
             investimento = investimento + investimento * 0.005;
-            Console.WriteLine($"No mês {mes} você tem {investimento}");
-            mes = mes + 1;
+            Console.WriteLine($"No mês {mes} você tem R$ {investimento}");
+
+            //mes = mes + 1;
+            //mes ++;
+            mes += 1;
         }
 
         Console.WriteLine("Tecle enter para fechar ...");
