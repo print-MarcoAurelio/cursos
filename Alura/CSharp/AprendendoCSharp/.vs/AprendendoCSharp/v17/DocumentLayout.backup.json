@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\agnal\\OneDrive\\Documentos\\GitHub\\cursos\\Alura\\CSharp\\AprendendoCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{670506D5-10A4-4F87-A85C-E542DF4C330A}|TestaEscopo\\TestaEscopo.csproj|c:\\users\\agnal\\onedrive\\documentos\\github\\cursos\\alura\\csharp\\aprendendocsharp\\testaescopo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{670506D5-10A4-4F87-A85C-E542DF4C330A}|TestaEscopo\\TestaEscopo.csproj|solutionrelative:testaescopo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86F45A18-2EC3-4576-8282-7C957F0F51BF}|9-Escope\\9-Escope.csproj|c:\\users\\agnal\\onedrive\\documentos\\github\\cursos\\alura\\csharp\\aprendendocsharp\\9-escope\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86F45A18-2EC3-4576-8282-7C957F0F51BF}|9-Escope\\9-Escope.csproj|solutionrelative:9-escope\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{53E96FA0-0F4C-4074-9F7E-12780566C336}|10-CalculaPoupanca\\10-CalculaPoupanca.csproj|c:\\users\\agnal\\onedrive\\documentos\\github\\cursos\\alura\\csharp\\aprendendocsharp\\10-calculapoupanca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E96FA0-0F4C-4074-9F7E-12780566C336}|10-CalculaPoupanca\\10-CalculaPoupanca.csproj|solutionrelative:10-calculapoupanca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,26 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\agnal\\OneDrive\\Documentos\\GitHub\\cursos\\Alura\\CSharp\\AprendendoCSharp\\TestaEscopo\\Program.cs",
-              "RelativeDocumentMoniker": "TestaEscopo\\Program.cs",
-              "ToolTip": "C:\\Users\\agnal\\OneDrive\\Documentos\\GitHub\\cursos\\Alura\\CSharp\\AprendendoCSharp\\TestaEscopo\\Program.cs",
-              "RelativeToolTip": "TestaEscopo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\agnal\\OneDrive\\Documentos\\GitHub\\cursos\\Alura\\CSharp\\AprendendoCSharp\\10-CalculaPoupanca\\Program.cs",
+              "RelativeDocumentMoniker": "10-CalculaPoupanca\\Program.cs",
+              "ToolTip": "C:\\Users\\agnal\\OneDrive\\Documentos\\GitHub\\cursos\\Alura\\CSharp\\AprendendoCSharp\\10-CalculaPoupanca\\Program.cs*",
+              "RelativeToolTip": "10-CalculaPoupanca\\Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:51:00.264Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\agnal\\OneDrive\\Documentos\\GitHub\\cursos\\Alura\\CSharp\\AprendendoCSharp\\9-Escope\\Program.cs",
-              "RelativeDocumentMoniker": "9-Escope\\Program.cs",
-              "ToolTip": "C:\\Users\\agnal\\OneDrive\\Documentos\\GitHub\\cursos\\Alura\\CSharp\\AprendendoCSharp\\9-Escope\\Program.cs",
-              "RelativeToolTip": "9-Escope\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T16:54:08.846Z",
+              "WhenOpened": "2024-08-02T00:36:37.734Z",
               "EditorCaption": ""
             }
           ]
