@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("P10-CalculaPoupanca")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67bbb79a6d11c48919dda1442dceac3e8a4b1e3b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f04868780207a6c07a2d9402d79e5980c5e80b8f")]
 [assembly: System.Reflection.AssemblyProductAttribute("P10-CalculaPoupanca")]
 [assembly: System.Reflection.AssemblyTitleAttribute("P10-CalculaPoupanca")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
