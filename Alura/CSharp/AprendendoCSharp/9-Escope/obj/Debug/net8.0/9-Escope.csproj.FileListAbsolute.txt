@@ -1,0 +1,15 @@
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\9-Escope\bin\Debug\net8.0\9-Escope.exe
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\9-Escope\bin\Debug\net8.0\9-Escope.deps.json
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\9-Escope\bin\Debug\net8.0\9-Escope.runtimeconfig.json
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\9-Escope\bin\Debug\net8.0\9-Escope.dll
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\9-Escope\bin\Debug\net8.0\9-Escope.pdb
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\9-Escope\obj\Debug\net8.0\9-Escope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\9-Escope\obj\Debug\net8.0\9-Escope.AssemblyInfoInputs.cache
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\9-Escope\obj\Debug\net8.0\9-Escope.AssemblyInfo.cs
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\9-Escope\obj\Debug\net8.0\9-Escope.csproj.CoreCompileInputs.cache
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\9-Escope\obj\Debug\net8.0\9-Escope.sourcelink.json
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\9-Escope\obj\Debug\net8.0\9-Escope.dll
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\9-Escope\obj\Debug\net8.0\refint\9-Escope.dll
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\9-Escope\obj\Debug\net8.0\9-Escope.pdb
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\9-Escope\obj\Debug\net8.0\9-Escope.genruntimeconfig.cache
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\9-Escope\obj\Debug\net8.0\ref\9-Escope.dll

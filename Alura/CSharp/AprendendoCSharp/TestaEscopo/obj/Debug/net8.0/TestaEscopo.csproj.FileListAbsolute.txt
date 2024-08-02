@@ -1,0 +1,15 @@
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\TestaEscopo\bin\Debug\net8.0\TestaEscopo.exe
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\TestaEscopo\bin\Debug\net8.0\TestaEscopo.deps.json
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\TestaEscopo\bin\Debug\net8.0\TestaEscopo.runtimeconfig.json
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\TestaEscopo\bin\Debug\net8.0\TestaEscopo.dll
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\TestaEscopo\bin\Debug\net8.0\TestaEscopo.pdb
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\TestaEscopo\obj\Debug\net8.0\TestaEscopo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\TestaEscopo\obj\Debug\net8.0\TestaEscopo.AssemblyInfoInputs.cache
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\TestaEscopo\obj\Debug\net8.0\TestaEscopo.AssemblyInfo.cs
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\TestaEscopo\obj\Debug\net8.0\TestaEscopo.csproj.CoreCompileInputs.cache
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\TestaEscopo\obj\Debug\net8.0\TestaEscopo.sourcelink.json
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\TestaEscopo\obj\Debug\net8.0\TestaEscopo.dll
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\TestaEscopo\obj\Debug\net8.0\refint\TestaEscopo.dll
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\TestaEscopo\obj\Debug\net8.0\TestaEscopo.pdb
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\TestaEscopo\obj\Debug\net8.0\TestaEscopo.genruntimeconfig.cache
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\TestaEscopo\obj\Debug\net8.0\ref\TestaEscopo.dll

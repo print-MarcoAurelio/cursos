@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\agnal\\OneDrive\\Documentos\\GitHub\\cursos\\Alura\\CSharp\\AprendendoCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E0CA4451-3135-4924-9A8F-28F07BC81A15}|5 - CaracteresETextos\\5 - CaracteresETextos.csproj|c:\\users\\agnal\\onedrive\\documentos\\github\\cursos\\alura\\csharp\\aprendendocsharp\\5 - caracteresetextos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0CA4451-3135-4924-9A8F-28F07BC81A15}|5 - CaracteresETextos\\5 - CaracteresETextos.csproj|solutionrelative:5 - caracteresetextos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{670506D5-10A4-4F87-A85C-E542DF4C330A}|TestaEscopo\\TestaEscopo.csproj|c:\\users\\agnal\\onedrive\\documentos\\github\\cursos\\alura\\csharp\\aprendendocsharp\\testaescopo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670506D5-10A4-4F87-A85C-E542DF4C330A}|TestaEscopo\\TestaEscopo.csproj|solutionrelative:testaescopo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AB32968-EEA1-4B13-839D-54704621AA24}|5-CaracteresETextos\\5-CaracteresETextos.csproj|c:\\users\\agnal\\onedrive\\documentos\\github\\cursos\\alura\\csharp\\aprendendocsharp\\5-caracteresetextos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AB32968-EEA1-4B13-839D-54704621AA24}|5-CaracteresETextos\\5-CaracteresETextos.csproj|solutionrelative:5-caracteresetextos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01A0450E-464C-429B-B912-933EC5F761BD}|1-OlaMundo\\1-OlaMundo.csproj|c:\\users\\agnal\\onedrive\\documentos\\github\\cursos\\alura\\csharp\\aprendendocsharp\\1-olamundo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01A0450E-464C-429B-B912-933EC5F761BD}|1-OlaMundo\\1-OlaMundo.csproj|solutionrelative:1-olamundo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37E3046A-0B15-4BD1-AC3B-F02166943909}|4-ConversoesEOutrosTipos\\4-ConversoesEOutrosTipos.csproj|c:\\users\\agnal\\onedrive\\documentos\\github\\cursos\\alura\\csharp\\aprendendocsharp\\4-conversoeseoutrostipos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37E3046A-0B15-4BD1-AC3B-F02166943909}|4-ConversoesEOutrosTipos\\4-ConversoesEOutrosTipos.csproj|solutionrelative:4-conversoeseoutrostipos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86F45A18-2EC3-4576-8282-7C957F0F51BF}|9-Escope\\9-Escope.csproj|c:\\users\\agnal\\onedrive\\documentos\\github\\cursos\\alura\\csharp\\aprendendocsharp\\9-escope\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F45A18-2EC3-4576-8282-7C957F0F51BF}|9-Escope\\9-Escope.csproj|solutionrelative:9-escope\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,52 +24,27 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\agnal\\OneDrive\\Documentos\\GitHub\\cursos\\Alura\\CSharp\\AprendendoCSharp\\5 - CaracteresETextos\\Program.cs",
-              "RelativeDocumentMoniker": "5 - CaracteresETextos\\Program.cs",
-              "ToolTip": "C:\\Users\\agnal\\OneDrive\\Documentos\\GitHub\\cursos\\Alura\\CSharp\\AprendendoCSharp\\5 - CaracteresETextos\\Program.cs*",
-              "RelativeToolTip": "5 - CaracteresETextos\\Program.cs*",
-              "ViewState": "AgIAAAkAAAAAAAAAAADwvw8AAAA8AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\agnal\\OneDrive\\Documentos\\GitHub\\cursos\\Alura\\CSharp\\AprendendoCSharp\\TestaEscopo\\Program.cs",
+              "RelativeDocumentMoniker": "TestaEscopo\\Program.cs",
+              "ToolTip": "C:\\Users\\agnal\\OneDrive\\Documentos\\GitHub\\cursos\\Alura\\CSharp\\AprendendoCSharp\\TestaEscopo\\Program.cs",
+              "RelativeToolTip": "TestaEscopo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T22:02:18.595Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\agnal\\OneDrive\\Documentos\\GitHub\\cursos\\Alura\\CSharp\\AprendendoCSharp\\1-OlaMundo\\Program.cs",
-              "RelativeDocumentMoniker": "1-OlaMundo\\Program.cs",
-              "ToolTip": "C:\\Users\\agnal\\OneDrive\\Documentos\\GitHub\\cursos\\Alura\\CSharp\\AprendendoCSharp\\1-OlaMundo\\Program.cs",
-              "RelativeToolTip": "1-OlaMundo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T20:34:23.498Z",
+              "WhenOpened": "2024-08-01T00:51:00.264Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\agnal\\OneDrive\\Documentos\\GitHub\\cursos\\Alura\\CSharp\\AprendendoCSharp\\5-CaracteresETextos\\Program.cs",
-              "RelativeDocumentMoniker": "5-CaracteresETextos\\Program.cs",
-              "ToolTip": "C:\\Users\\agnal\\OneDrive\\Documentos\\GitHub\\cursos\\Alura\\CSharp\\AprendendoCSharp\\5-CaracteresETextos\\Program.cs",
-              "RelativeToolTip": "5-CaracteresETextos\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAiwB0AAAACAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\agnal\\OneDrive\\Documentos\\GitHub\\cursos\\Alura\\CSharp\\AprendendoCSharp\\9-Escope\\Program.cs",
+              "RelativeDocumentMoniker": "9-Escope\\Program.cs",
+              "ToolTip": "C:\\Users\\agnal\\OneDrive\\Documentos\\GitHub\\cursos\\Alura\\CSharp\\AprendendoCSharp\\9-Escope\\Program.cs",
+              "RelativeToolTip": "9-Escope\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T20:34:18.033Z",
+              "WhenOpened": "2024-07-31T16:54:08.846Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\agnal\\OneDrive\\Documentos\\GitHub\\cursos\\Alura\\CSharp\\AprendendoCSharp\\4-ConversoesEOutrosTipos\\Program.cs",
-              "RelativeDocumentMoniker": "4-ConversoesEOutrosTipos\\Program.cs",
-              "ToolTip": "C:\\Users\\agnal\\OneDrive\\Documentos\\GitHub\\cursos\\Alura\\CSharp\\AprendendoCSharp\\4-ConversoesEOutrosTipos\\Program.cs",
-              "RelativeToolTip": "4-ConversoesEOutrosTipos\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T21:04:33.456Z"
             }
           ]
         }

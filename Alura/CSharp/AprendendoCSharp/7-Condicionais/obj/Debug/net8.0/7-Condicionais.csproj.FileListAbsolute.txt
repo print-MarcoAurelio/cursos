@@ -1,0 +1,15 @@
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\7-Condicionais\bin\Debug\net8.0\7-Condicionais.exe
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\7-Condicionais\bin\Debug\net8.0\7-Condicionais.deps.json
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\7-Condicionais\bin\Debug\net8.0\7-Condicionais.runtimeconfig.json
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\7-Condicionais\bin\Debug\net8.0\7-Condicionais.dll
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\7-Condicionais\bin\Debug\net8.0\7-Condicionais.pdb
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\7-Condicionais\obj\Debug\net8.0\7-Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\7-Condicionais\obj\Debug\net8.0\7-Condicionais.AssemblyInfoInputs.cache
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\7-Condicionais\obj\Debug\net8.0\7-Condicionais.AssemblyInfo.cs
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\7-Condicionais\obj\Debug\net8.0\7-Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\7-Condicionais\obj\Debug\net8.0\7-Condicionais.sourcelink.json
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\7-Condicionais\obj\Debug\net8.0\7-Condicionais.dll
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\7-Condicionais\obj\Debug\net8.0\refint\7-Condicionais.dll
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\7-Condicionais\obj\Debug\net8.0\7-Condicionais.pdb
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\7-Condicionais\obj\Debug\net8.0\7-Condicionais.genruntimeconfig.cache
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\7-Condicionais\obj\Debug\net8.0\ref\7-Condicionais.dll
