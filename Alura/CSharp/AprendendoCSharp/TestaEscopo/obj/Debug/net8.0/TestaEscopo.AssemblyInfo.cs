@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestaEscopo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67bbb79a6d11c48919dda1442dceac3e8a4b1e3b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78eee847e8725bde1937a2c0144768ee843d0f3a")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestaEscopo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestaEscopo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

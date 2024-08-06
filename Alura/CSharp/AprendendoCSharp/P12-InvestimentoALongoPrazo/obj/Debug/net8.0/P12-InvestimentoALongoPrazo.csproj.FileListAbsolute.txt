@@ -1,0 +1,15 @@
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\P12-InvestimentoALongoPrazo\bin\Debug\net8.0\P12-InvestimentoALongoPrazo.exe
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\P12-InvestimentoALongoPrazo\bin\Debug\net8.0\P12-InvestimentoALongoPrazo.deps.json
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\P12-InvestimentoALongoPrazo\bin\Debug\net8.0\P12-InvestimentoALongoPrazo.runtimeconfig.json
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\P12-InvestimentoALongoPrazo\bin\Debug\net8.0\P12-InvestimentoALongoPrazo.dll
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\P12-InvestimentoALongoPrazo\bin\Debug\net8.0\P12-InvestimentoALongoPrazo.pdb
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\P12-InvestimentoALongoPrazo\obj\Debug\net8.0\P12-InvestimentoALongoPrazo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\P12-InvestimentoALongoPrazo\obj\Debug\net8.0\P12-InvestimentoALongoPrazo.AssemblyInfoInputs.cache
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\P12-InvestimentoALongoPrazo\obj\Debug\net8.0\P12-InvestimentoALongoPrazo.AssemblyInfo.cs
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\P12-InvestimentoALongoPrazo\obj\Debug\net8.0\P12-InvestimentoALongoPrazo.csproj.CoreCompileInputs.cache
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\P12-InvestimentoALongoPrazo\obj\Debug\net8.0\P12-InvestimentoALongoPrazo.sourcelink.json
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\P12-InvestimentoALongoPrazo\obj\Debug\net8.0\P12-InvestimentoALongoPrazo.dll
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\P12-InvestimentoALongoPrazo\obj\Debug\net8.0\refint\P12-InvestimentoALongoPrazo.dll
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\P12-InvestimentoALongoPrazo\obj\Debug\net8.0\P12-InvestimentoALongoPrazo.pdb
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\P12-InvestimentoALongoPrazo\obj\Debug\net8.0\P12-InvestimentoALongoPrazo.genruntimeconfig.cache
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\AprendendoCSharp\P12-InvestimentoALongoPrazo\obj\Debug\net8.0\ref\P12-InvestimentoALongoPrazo.dll
