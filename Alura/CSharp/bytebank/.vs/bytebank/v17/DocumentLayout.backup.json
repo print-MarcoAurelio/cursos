@@ -28,9 +28,10 @@
               "RelativeDocumentMoniker": "bytebank\\ContaCorrente.cs",
               "ToolTip": "C:\\Users\\agnal\\OneDrive\\Documentos\\GitHub\\cursos\\Alura\\CSharp\\bytebank\\bytebank\\ContaCorrente.cs",
               "RelativeToolTip": "bytebank\\ContaCorrente.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAQwAsAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T21:39:48.707Z"
+              "WhenOpened": "2024-08-06T21:39:48.707Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -38,9 +39,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\agnal\\OneDrive\\Documentos\\GitHub\\cursos\\Alura\\CSharp\\bytebank\\bytebank\\Program.cs",
               "RelativeDocumentMoniker": "bytebank\\Program.cs",
-              "ToolTip": "C:\\Users\\agnal\\OneDrive\\Documentos\\GitHub\\cursos\\Alura\\CSharp\\bytebank\\bytebank\\Program.cs*",
-              "RelativeToolTip": "bytebank\\Program.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAwwAYAAAAWAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\agnal\\OneDrive\\Documentos\\GitHub\\cursos\\Alura\\CSharp\\bytebank\\bytebank\\Program.cs",
+              "RelativeToolTip": "bytebank\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-06T21:36:38.85Z",
               "EditorCaption": ""
