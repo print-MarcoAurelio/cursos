@@ -1,0 +1,15 @@
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\ContaBancaria\ContaBancaria\bin\Debug\net8.0\Banco.exe
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\ContaBancaria\ContaBancaria\bin\Debug\net8.0\Banco.deps.json
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\ContaBancaria\ContaBancaria\bin\Debug\net8.0\Banco.runtimeconfig.json
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\ContaBancaria\ContaBancaria\bin\Debug\net8.0\Banco.dll
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\ContaBancaria\ContaBancaria\bin\Debug\net8.0\Banco.pdb
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\ContaBancaria\ContaBancaria\obj\Debug\net8.0\Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\ContaBancaria\ContaBancaria\obj\Debug\net8.0\Banco.AssemblyInfoInputs.cache
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\ContaBancaria\ContaBancaria\obj\Debug\net8.0\Banco.AssemblyInfo.cs
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\ContaBancaria\ContaBancaria\obj\Debug\net8.0\Banco.csproj.CoreCompileInputs.cache
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\ContaBancaria\ContaBancaria\obj\Debug\net8.0\Banco.sourcelink.json
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\ContaBancaria\ContaBancaria\obj\Debug\net8.0\Banco.dll
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\ContaBancaria\ContaBancaria\obj\Debug\net8.0\refint\Banco.dll
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\ContaBancaria\ContaBancaria\obj\Debug\net8.0\Banco.pdb
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\ContaBancaria\ContaBancaria\obj\Debug\net8.0\Banco.genruntimeconfig.cache
+C:\Users\agnal\OneDrive\Documentos\GitHub\cursos\Alura\CSharp\ContaBancaria\ContaBancaria\obj\Debug\net8.0\ref\Banco.dll

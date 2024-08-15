@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\agnal\\OneDrive\\Documentos\\GitHub\\cursos\\Alura\\CSharp\\ContaBancaria\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{07BC97DD-901F-4881-B2E6-B3D0655D6264}|ContaBancaria\\ContaBancaria.csproj|c:\\users\\agnal\\onedrive\\documentos\\github\\cursos\\alura\\csharp\\contabancaria\\contabancaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07BC97DD-901F-4881-B2E6-B3D0655D6264}|ContaBancaria\\ContaBancaria.csproj|solutionrelative:contabancaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\agnal\\OneDrive\\Documentos\\GitHub\\cursos\\Alura\\CSharp\\ContaBancaria\\ContaBancaria\\ContaBancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ContaBancaria\\ContaBancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07BC97DD-901F-4881-B2E6-B3D0655D6264}|ContaBancaria\\Banco.csproj|c:\\users\\agnal\\onedrive\\documentos\\github\\cursos\\alura\\csharp\\contabancaria\\contabancaria\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07BC97DD-901F-4881-B2E6-B3D0655D6264}|ContaBancaria\\Banco.csproj|solutionrelative:contabancaria\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\agnal\\OneDrive\\Documentos\\GitHub\\cursos\\Alura\\CSharp\\ContaBancaria\\ContaBancaria\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ContaBancaria\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ContaBancaria.cs",
-              "DocumentMoniker": "C:\\Users\\agnal\\OneDrive\\Documentos\\GitHub\\cursos\\Alura\\CSharp\\ContaBancaria\\ContaBancaria\\ContaBancaria.cs",
-              "RelativeDocumentMoniker": "ContaBancaria\\ContaBancaria.cs",
-              "ToolTip": "C:\\Users\\agnal\\OneDrive\\Documentos\\GitHub\\cursos\\Alura\\CSharp\\ContaBancaria\\ContaBancaria\\ContaBancaria.cs",
-              "RelativeToolTip": "ContaBancaria\\ContaBancaria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T22:33:25.216Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\agnal\\OneDrive\\Documentos\\GitHub\\cursos\\Alura\\CSharp\\ContaBancaria\\ContaBancaria\\Program.cs",
               "RelativeDocumentMoniker": "ContaBancaria\\Program.cs",
               "ToolTip": "C:\\Users\\agnal\\OneDrive\\Documentos\\GitHub\\cursos\\Alura\\CSharp\\ContaBancaria\\ContaBancaria\\Program.cs",
               "RelativeToolTip": "ContaBancaria\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T22:28:19.876Z",
+              "WhenOpened": "2024-08-15T21:45:01.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\agnal\\OneDrive\\Documentos\\GitHub\\cursos\\Alura\\CSharp\\ContaBancaria\\ContaBancaria\\ContaBancaria.cs",
+              "RelativeDocumentMoniker": "ContaBancaria\\ContaBancaria.cs",
+              "ToolTip": "C:\\Users\\agnal\\OneDrive\\Documentos\\GitHub\\cursos\\Alura\\CSharp\\ContaBancaria\\ContaBancaria\\ContaBancaria.cs",
+              "RelativeToolTip": "ContaBancaria\\ContaBancaria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T21:44:52.409Z",
               "EditorCaption": ""
             }
           ]
