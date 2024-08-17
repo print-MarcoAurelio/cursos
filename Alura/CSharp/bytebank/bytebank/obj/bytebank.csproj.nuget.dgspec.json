@@ -13,12 +13,8 @@
         "packagesPath": "C:\\Users\\agnal\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\agnal\\OneDrive\\Documentos\\GitHub\\cursos\\Alura\\CSharp\\bytebank\\bytebank\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\agnal\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

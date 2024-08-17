@@ -8,5 +8,6 @@ contaDoMarco.saldo = 100;
 
 Console.WriteLine($"Saldo da conta do Marco = {contaDoMarco.saldo}");
 
-contaDoMarco.Depositar(100)
+contaDoMarco.Depositar(100);
+
 Console.WriteLine($"Saldo da conta do Marco = {contaDoMarco.saldo}");
