@@ -11,3 +11,10 @@ Console.WriteLine($"Saldo da conta do Marco = {contaDoMarco.saldo}");
 contaDoMarco.Depositar(100);
 
 Console.WriteLine($"Saldo da conta do Marco = {contaDoMarco.saldo}");
+
+if (contaDoMarco.Sacar(300) == true){
+    System.Console.WriteLine($"Saldo da conta do Marco pós-saque = {contaDoMarco.saldo}");
+}else{
+    System.Console.WriteLine("Valor indisponivel");
+}
+
